@@ -1,0 +1,12 @@
+C:\Users\itcak\Documents\qls\Hristo_Atanasov_11j\BussinessLayer\bin\Debug\net6.0\BussinessLayer.deps.json
+C:\Users\itcak\Documents\qls\Hristo_Atanasov_11j\BussinessLayer\bin\Debug\net6.0\BussinessLayer.dll
+C:\Users\itcak\Documents\qls\Hristo_Atanasov_11j\BussinessLayer\bin\Debug\net6.0\BussinessLayer.pdb
+C:\Users\itcak\Documents\qls\Hristo_Atanasov_11j\BussinessLayer\obj\Debug\net6.0\BussinessLayer.csproj.AssemblyReference.cache
+C:\Users\itcak\Documents\qls\Hristo_Atanasov_11j\BussinessLayer\obj\Debug\net6.0\BussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itcak\Documents\qls\Hristo_Atanasov_11j\BussinessLayer\obj\Debug\net6.0\BussinessLayer.AssemblyInfoInputs.cache
+C:\Users\itcak\Documents\qls\Hristo_Atanasov_11j\BussinessLayer\obj\Debug\net6.0\BussinessLayer.AssemblyInfo.cs
+C:\Users\itcak\Documents\qls\Hristo_Atanasov_11j\BussinessLayer\obj\Debug\net6.0\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\itcak\Documents\qls\Hristo_Atanasov_11j\BussinessLayer\obj\Debug\net6.0\BussinessLayer.dll
+C:\Users\itcak\Documents\qls\Hristo_Atanasov_11j\BussinessLayer\obj\Debug\net6.0\refint\BussinessLayer.dll
+C:\Users\itcak\Documents\qls\Hristo_Atanasov_11j\BussinessLayer\obj\Debug\net6.0\BussinessLayer.pdb
+C:\Users\itcak\Documents\qls\Hristo_Atanasov_11j\BussinessLayer\obj\Debug\net6.0\ref\BussinessLayer.dll
